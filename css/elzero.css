@@ -855,6 +855,8 @@ padding-top: 60px;
     width: calc(100% - 60px);
     border-radius:10px ;
     transition: var(--main-transition);
+    max-width: 100%;
+}
 }
 
 .team-members .card:hover img
